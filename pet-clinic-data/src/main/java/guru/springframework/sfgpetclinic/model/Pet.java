@@ -1,5 +1,6 @@
 package guru.springframework.sfgpetclinic.model;
 
+
 import sun.util.resources.LocaleData;
 
 public class Pet {
